@@ -1,0 +1,36 @@
+body {
+    background-color: blueviolet;
+}
+
+.continer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: aqua;
+    padding: 40px;
+    background-position: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.yasoda {
+    position: absolute;
+    left: 65%;
+    top: 70px;
+}
+
+.kritish {
+    position: absolute;
+    left: 75%;
+    top: 70px;
+}
+
+.kristina {
+    position: absolute;
+    left: 85%;
+    top: 70px;
+}
